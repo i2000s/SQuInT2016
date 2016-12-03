@@ -4,6 +4,10 @@ From the [Release channel](https://github.com/i2000s/SQuInT2016/releases), you c
 All materials can be downloaded and freely reused under the [Creative Commons Attribute International 4.0](https://creativecommons.org/licenses/by/4.0/) license. 
 Feel free to comment on the [issue channel](https://github.com/i2000s/SQuInT2016/issues) (you may need to register on [GitHub](http://github.com)).
 
+To cite this release of poster material, please use the following [***DOI***](https://en.wikipedia.org/wiki/Digital_object_identifier):
+
+[![DOI](https://zenodo.org/badge/75506383.svg)](https://zenodo.org/badge/latestdoi/75506383): 10.5281/zenodo.192474
+
 # Title
 Dispersive response theory and its applications to QND measurement and spin squeezing with an ensemble of atoms trapped nearby a nanofiber
 
